@@ -1,0 +1,9 @@
+{
+  "name": "Dapur Kalibata 2 - Absensi MBG",
+  "description": "Sistem absensi otomatis untuk relawan Dapur Kalibata 2 (Program Makan Bergizi Gratis) dengan verifikasi AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
